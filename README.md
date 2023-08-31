@@ -1,4 +1,4 @@
-![Kes's Github Stats](https://github-readme-stats.vercel.app/api?username=EFHDev&show_icons=true&theme=aura)
+![Kes's Github Stats](https://github-readme-stats.vercel.app/api?username=EFHDev&show_icons=true&theme=aura) 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EFHDev&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 ### Heya, Im Kes. 
