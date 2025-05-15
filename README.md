@@ -1,6 +1,6 @@
 ![Kes's Github Stats](https://github-readme-stats.vercel.app/api?username=EFHDev&show_icons=true&theme=aura) 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EFHDev&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=efhdev)](https://github.com/anuraghazra/github-readme-stats)
 ### Heya, Im Kes. 
 I'm the founder of Global Bans authority, which is building a ecosystem of servers that work together to keep cheaters off Minecraft servers, And i work with MTGA (Make Tarkov Great Again)
 
